@@ -25,7 +25,7 @@ $config = array(
     'user' => 'badgercoinrpc',
     'pass' => '--password--',
     'host' => '127.0.0.1',
-    'port' => '22555' );
+    'port' => '23389' );
 
 // create client conncetion
 $badger = new Badger( $config );
